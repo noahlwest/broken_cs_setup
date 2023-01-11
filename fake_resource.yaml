@@ -1,0 +1,6 @@
+apiVersion: "fake.notreal.com/v1"
+kind: CustomResourceWithoutDefinition
+metadata:
+  name: my-custom-resource
+spec:
+  validity: none
